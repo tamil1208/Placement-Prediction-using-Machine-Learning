@@ -94,13 +94,15 @@ The models' performance is evaluated using various metrics, including:
 - F1 Score: 0.90
 - Roc_Auc_Score:0.94
 **FEATURE IMPORTANCE**:
+  
 <img width="640" height="480" alt="feature_importance" src="https://github.com/user-attachments/assets/2b6a2ffb-bf37-43a3-a6c3-518543de5646" />
-
 
 **ROC CURVE**:
 
 <img src="static/images/roc_curve.png " alt="Alt text" width="500" height="400">
+
 **CONFUSION MATRIX**:
+
 <img width="640" height="480" alt="feature_importance" src="https://github.com/user-attachments/assets/2ca93c8c-0c26-40d0-8e46-3259fcf5ad74" />
 
 
