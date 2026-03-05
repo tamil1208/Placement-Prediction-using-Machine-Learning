@@ -1,9 +1,7 @@
 # Placement-Prediction-using-Machine-Learning
 This project focuses on predicting student placement and salary in campus recruitment using Random Forest classifiers. The goal is to help students and educational institutions understand the factors that influence placement success and expected salary.
 ## Final Result
-<img src="static/images/pl1.png" alt="Alt text" width=100%>
-<img src="static/images/pl2.png" alt="Alt text" width=100%>
-<img src="static/images/pl3.png" alt="Alt text" width=100%>
+
 
 ## Table of Contents
 - [Overview](#overview)
@@ -37,7 +35,7 @@ The dataset contains features for predicting both placement status and salary.
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/charans2702/Placement_Prediction_Using_Machine-Learning.git
+   git clone https://github.com/tamil1208/Placement-Prediction-using-Machine-Learning
    
 2. Install the required packages:
    pip install -r requirements.txt
